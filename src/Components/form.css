@@ -1,9 +1,9 @@
-.div{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 10px;
+.div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
 }
-.main{
-    padding:30px
+.main {
+  padding: 30px;
 }

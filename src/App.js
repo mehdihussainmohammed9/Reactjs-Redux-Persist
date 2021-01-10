@@ -5,7 +5,6 @@ import { PersistGate } from "redux-persist/integration/react";
 import { persistStore } from "redux-persist";
 
 import Form from "./Components/Form.js";
-// import IceCreamContainer from "./components/IceCreamContainer";
 let persistor = persistStore(store);
 
 function App() {
