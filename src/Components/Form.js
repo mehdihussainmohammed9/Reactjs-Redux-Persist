@@ -39,12 +39,12 @@ const Form = () => {
           }}
         >
           {" "}
-          Clear Redux Data{" "}
+          Clear Redux Data:{" "}
         </button>
       </div>
 
       <div className="div">
-        <h3>Redux Value:{" "}
+        <h3>Your Redux Value:{" "}
         {userName}</h3>
       </div>
     </div>
